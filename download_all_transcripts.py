@@ -14,8 +14,9 @@ def clean_title(title):
         title = title.replace(c,'')
     return title
 
-
-channel_id = 'UCvKRFNawVcuz4b9ihUTApCg'
+# AI UCvKRFNawVcuz4b9ihUTApCg
+# Neurospicy UCHDvy-B0O0zFHaD36gF90TQ
+channel_id = 'UCHDvy-B0O0zFHaD36gF90TQ'
 videos = scrapetube.get_channel(channel_id)
 print(videos)
 

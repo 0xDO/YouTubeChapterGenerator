@@ -1,0 +1,2 @@
+scrapetube==2.5.1
+YouTubeTranscriptApi=0.6.1
